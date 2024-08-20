@@ -26,6 +26,9 @@ Triển khai này sử dụng các tập dữ liệu sau:
 - OpenCV
 - tqdm
 - Pillow (PIL)
+```bash
+pip install -r requirements.txt
+```
 
 ## Cấu trúc kho lưu trữ
 Kho lưu trữ này được tổ chức như sau:
