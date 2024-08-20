@@ -9,7 +9,7 @@ Kho lưu trữ này cung cấp triển khai PyTorch của bài báo nghiên cứ
 - Cơ chế chú ý được tích hợp thông qua mạng biến hình không gian (Spatial Transformer Networks).
 
 <p align="center">
-  <img src="imgs/net_arch.PNG" width="960" title="Kiến trúc Deep-Emotion">
+  <img src="net_arch.PNG" width="960" title="Kiến trúc Deep-Emotion">
 </p>
 
 ## Dữ liệu
