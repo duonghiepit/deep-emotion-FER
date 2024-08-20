@@ -70,9 +70,3 @@ python visualize.py [-t] [-c] [--data [data_path]] [--model [model_path]]
 --test_cc               Tính toán độ chính xác kiểm tra
 --cam                   Kiểm tra mô hình trong thời gian thực với webcam kết nối qua USB
 ```
-
-## Mẫu dự đoán
-<p align="center">
-  <img src="imgs/samples.png" width="720" title="Kiến trúc Deep-Emotion">
-</p>
-```
